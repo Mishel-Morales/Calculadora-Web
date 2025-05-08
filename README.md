@@ -24,7 +24,7 @@ El proyecto está diseñado para demostrar el uso del **DOM**, el manejo de **ev
 
 1. Clona el repositorio:
    ```bash
-   [git clone https://github.com/tuusuario/tu-repo.git](https://github.com/Mishel-Morales/Calculadora-Web.git)
+   https://github.com/Mishel-Morales/Calculadora-Web.git
 # 📸 Captura de pantalla
 A continuación se muestra una imagen de la interfaz de la calculadora:
 ![Captura desde 2025-05-08 13-16-45](https://github.com/user-attachments/assets/63fadb04-f1c6-4e7f-892b-e4192e3a23b4)
